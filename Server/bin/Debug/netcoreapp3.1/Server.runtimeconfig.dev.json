@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/vitali/.dotnet/store/|arch|/|tfm|",
+      "/home/vitali/.nuget/packages"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+/home/vitali/Desktop/CSVOD/Server/bin/Debug/netcoreapp3.1/Server
+/home/vitali/Desktop/CSVOD/Server/bin/Debug/netcoreapp3.1/Server.deps.json
+/home/vitali/Desktop/CSVOD/Server/bin/Debug/netcoreapp3.1/Server.runtimeconfig.json
+/home/vitali/Desktop/CSVOD/Server/bin/Debug/netcoreapp3.1/Server.runtimeconfig.dev.json
+/home/vitali/Desktop/CSVOD/Server/bin/Debug/netcoreapp3.1/Server.dll
+/home/vitali/Desktop/CSVOD/Server/bin/Debug/netcoreapp3.1/Server.pdb
+/home/vitali/Desktop/CSVOD/Server/obj/Debug/netcoreapp3.1/Server.csprojAssemblyReference.cache
+/home/vitali/Desktop/CSVOD/Server/obj/Debug/netcoreapp3.1/Server.AssemblyInfoInputs.cache
+/home/vitali/Desktop/CSVOD/Server/obj/Debug/netcoreapp3.1/Server.AssemblyInfo.cs
+/home/vitali/Desktop/CSVOD/Server/obj/Debug/netcoreapp3.1/Server.csproj.CoreCompileInputs.cache
+/home/vitali/Desktop/CSVOD/Server/obj/Debug/netcoreapp3.1/Server.dll
+/home/vitali/Desktop/CSVOD/Server/obj/Debug/netcoreapp3.1/Server.pdb
+/home/vitali/Desktop/CSVOD/Server/obj/Debug/netcoreapp3.1/Server.genruntimeconfig.cache
